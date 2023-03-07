@@ -39,13 +39,6 @@
         </dependency>
     </dependencies>
 
-    <repositories>
-        <repository>
-            <id>local</id>
-            <url>http://10.0.0.99:18081/repository/maven-public/</url>
-        </repository>
-    </repositories>
-
     <build>
         <plugins>
             <plugin>
